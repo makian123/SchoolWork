@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Register user</string>
+    <string name="registar">Register</string>
+    <string name="ime">Name</string>
+    <string name="email">Email</string>
+    <string name="prezime">Surname</string>
+</resources>
